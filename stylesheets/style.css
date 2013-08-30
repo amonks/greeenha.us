@@ -65,7 +65,8 @@ a {
 	font-weight: 700;
 	font-style: italic;
 }
-#poem {
+.poem {
+	padding-top: 1em;
 	font-style: italic;
 	font-weight: 600;
 }
